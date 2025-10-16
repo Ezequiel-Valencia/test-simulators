@@ -8,7 +8,7 @@ import tellurium as te
 from roadrunner.roadrunner import RoadRunner
 
 
-# Elowitz2000 - Repressilator Model
+# Elowitz2000 - Repressilator Model, https://www.ebi.ac.uk/biomodels/BIOMD0000000012
 omex_url = "https://ftp.ebi.ac.uk/pub/databases/biomodels/repository/aaa/MODEL6615351360/3/MODEL6615351360.3.omex"
 
 with tempfile.TemporaryDirectory() as tmpdir:
