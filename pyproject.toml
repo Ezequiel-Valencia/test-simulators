@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "biosimulators-utils>=0.2.3",
     "copasi-basico>=0.85",
     "tellurium>=2.2.11.1",
 ]
